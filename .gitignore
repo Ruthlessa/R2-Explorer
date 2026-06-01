@@ -2,6 +2,7 @@
 node_modules
 dist
 spa
+.pnpm-store
 
 # local env files
 .env.local
