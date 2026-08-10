@@ -1,3 +1,4 @@
+// patched 2026-08-10
 import { cloudflareAccess } from "@hono/cloudflare-access";
 import {
 	type OpenAPIObjectConfigV31,
